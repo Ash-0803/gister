@@ -1,11 +1,11 @@
 {
-  "name": "gister",
+  "name": "koto",
   "version": "5.0.4",
-  "description": "A youtube summarizer app that gives you a gist of youtube video.",
+  "description": "A note taking and to do application",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ash-0803/gister.git"
+    "url": "https://github.com/Ash-0803/koto.git"
   },
   "scripts": {
     "build": "node utils/build.js",
@@ -16,6 +16,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
+
 
   "devDependencies": {
     "@babel/core": "^7.20.12",
